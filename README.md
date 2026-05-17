@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @manjoybera
 - 👀 I’m interested in iot and coding, and probably some music too :)
-- 🌱 I’m currently learning reactjs
-- 💞️ I’m looking to collaborate on open source react components
+- 🌱 I’m currently learning genai and rag pipelines
 - 📫 How to reach me -> https://manjoy.in
 
 <!---
